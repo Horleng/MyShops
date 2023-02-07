@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyShops/static/css/main.0d8342e7.css",
+    "main.js": "/MyShops/static/js/main.7b3f8990.js",
+    "static/media/Electronic.png": "/MyShops/static/media/Electronic.45e3c761ab420973e15f.png",
+    "static/media/student.png": "/MyShops/static/media/student.05570ed7bdba4ce8cdc8.png",
+    "static/media/Clost.png": "/MyShops/static/media/Clost.97c76b11729f66c013f3.png",
+    "static/media/Iphone.png": "/MyShops/static/media/Iphone.37a546b85ad9bb3e29e4.png",
+    "static/media/Wow.png": "/MyShops/static/media/Wow.916bfd93b11fa404072d.png",
+    "static/media/Pc.png": "/MyShops/static/media/Pc.a97b44e67a685cf2db61.png",
+    "static/media/Book.png": "/MyShops/static/media/Book.4a1a7a2543874f8d2568.png",
+    "static/media/Dog1.png": "/MyShops/static/media/Dog1.2dd3aa7cfa27467bd435.png",
+    "static/media/Coffee.png": "/MyShops/static/media/Coffee.3a48aba40a54877f3f62.png",
+    "static/media/Dog2.png": "/MyShops/static/media/Dog2.d0f7e9013b058b6d4c76.png",
+    "static/media/dis30.png": "/MyShops/static/media/dis30.ddfc053d2dfa974f8483.png",
+    "static/media/Energy.png": "/MyShops/static/media/Energy.a2849e2bf05430c1e799.png",
+    "static/media/Closhes.png": "/MyShops/static/media/Closhes.aff21b9ee4fd6b056a98.png",
+    "static/media/Dog3.png": "/MyShops/static/media/Dog3.4f729db1352deab98774.png",
+    "index.html": "/MyShops/index.html",
+    "main.0d8342e7.css.map": "/MyShops/static/css/main.0d8342e7.css.map",
+    "main.7b3f8990.js.map": "/MyShops/static/js/main.7b3f8990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8342e7.css",
+    "static/js/main.7b3f8990.js"
+  ]
+}
